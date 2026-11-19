@@ -1,5 +1,1 @@
-[
-  { "name": "1-cover.jpg", "query": "?shot=cover&photo=pier&caption=Sunset%20Heist", "w": 1080, "h": 1080 },
-  { "name": "2-editor.jpg", "query": "?shot=editor&photo=boulevard&caption=Boulevard%20Queen", "w": 1280, "h": 720 },
-  { "name": "3-cover.jpg", "query": "?shot=cover&photo=boulevard&caption=Boulevard%20Queen", "w": 1080, "h": 1080 }
-]
+[{"h":720,"name":"1-cover.jpg","query":"?shot=cover&size=wide&layout=grid9&grade=sunset&title=SUNSET%20CHASE&subtitle=welcome%20to%20Leonida&photos=car-palms,woman-car,skyline-dusk,friends-neon,man-rooftop,man-pier,pier,boulevard,woman-car","w":1280},{"h":720,"name":"2-editor.jpg","query":"?shot=editor&layout=grid9&grade=sunset&title=SUNSET%20CHASE","w":1280},{"h":1280,"name":"3-cover-story.jpg","query":"?shot=cover&size=portrait&layout=hero8&grade=neon&title=NEON%20VICE&subtitle=welcome%20to%20Leonida&photos=skyline-dusk,friends-neon,man-rooftop,woman-car,car-palms,man-pier,pier,boulevard,skyline-dusk","w":1024},{"h":1080,"name":"4-cover-tilted.jpg","query":"?shot=cover&size=square&layout=tilted&grade=gold&title=GOLD%20HOUR&subtitle=welcome%20to%20Leonida&photos=woman-car,man-rooftop,car-palms","w":1080}]
